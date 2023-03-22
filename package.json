@@ -1,0 +1,14 @@
+{
+  "name": "sedona",
+  "version": "1.0.1",
+  "description": "first markup",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"start\": \"node index.js\""
+  },
+  "author": "Kolesnikov Alexandr",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
